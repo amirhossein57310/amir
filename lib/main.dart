@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Container(
-        color: Colors.amber,
+        color: Colors.red,
         width: 300,
         height: 300,
       ),
